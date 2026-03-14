@@ -55,18 +55,6 @@
 ⏳ Transformer Architecture & NLP
 ```
 
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🏙️ [Coders of Delhi](https://github.com/aishwarya5634) | Community project for Delhi-based coders | Python, GitHub |
-| 📊 Data Science Practice | Beginner ML models and EDA notebooks | Pandas, Sklearn |
-
-> 🔨 More projects coming soon — stay tuned!
-
 ---
 
 ### 💬 Let's Connect!
@@ -81,10 +69,3 @@ I'm always open to collaborating on beginner-friendly data science projects, dis
   <a href="https://github.com/aishwarya5634">🐙 GitHub</a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aishwarya5634&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center"><em>"Data is the new oil — and I'm here to refine it. 🛢️✨"</em></p>
